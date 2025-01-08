@@ -1,0 +1,5 @@
+This is a new line.
+Writing to the file.
+Appending a new line.
+
+Adding a line in read+write mode.
