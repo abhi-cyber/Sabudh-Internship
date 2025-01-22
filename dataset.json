@@ -1,0 +1,217 @@
+[
+  {
+    "instruction": "You are an expert car advisor. Given a car model and year, list its key safety features.",
+    "input": "What are the key safety features of the 2024 Volvo XC90?",
+    "output": "['Forward Collision Warning', 'Automatic Emergency Braking', 'Lane Departure Warning', 'Blind Spot Monitoring', 'Cross-Traffic Alert', 'Run-off Road Protection', 'Driver Attention Monitor']"
+  },
+  {
+    "instruction": "You are a car performance expert. Analyze the engine specifications of the given vehicle.",
+    "input": "What are the engine specifications of the 2024 BMW M3?",
+    "output": "['3.0L Twin-Turbocharged Inline-6', '473 Horsepower', '406 lb-ft Torque', '0-60 mph in 3.8 seconds']"
+  },
+  {
+    "instruction": "You are a car interior specialist. List the premium features of the given luxury vehicle.",
+    "input": "What are the premium interior features of the 2024 Mercedes S-Class?",
+    "output": "['Nappa Leather Upholstery', 'Heated/Ventilated Seats', 'Massage Function', 'Ambient Lighting', 'Air Balance Fragrance System']"
+  },
+  {
+    "instruction": "You are an automotive technology expert. Describe the infotainment features of the specified model.",
+    "input": "What are the infotainment features of the 2024 Audi A8?",
+    "output": "['12.3-inch Virtual Cockpit', '10.1-inch Upper Display', '8.6-inch Lower Display', 'Bang & Olufsen 3D Sound', 'Wireless CarPlay/Android Auto']"
+  },
+  {
+    "instruction": "You are a fuel efficiency specialist. Provide the fuel economy ratings for the given vehicle.",
+    "input": "What are the fuel economy ratings for the 2024 Toyota Camry Hybrid?",
+    "output": "['51 MPG City', '53 MPG Highway', '52 MPG Combined', '686 Miles Total Range']"
+  },
+  {
+    "instruction": "You are a car dimensions expert. List the key measurements of the specified vehicle.",
+    "input": "What are the key dimensions of the 2024 Honda CR-V?",
+    "output": "['Length: 184.8 inches', 'Width: 73.5 inches', 'Height: 66.2 inches', 'Wheelbase: 106.3 inches']"
+  },
+  {
+    "instruction": "You are a vehicle warranty specialist. Detail the warranty coverage for the given model.",
+    "input": "What warranty coverage comes with the 2024 Hyundai Tucson?",
+    "output": "['5-year/60,000-mile Basic Coverage', '10-year/100,000-mile Powertrain', '7-year/Unlimited-mile Anti-perforation', '3-year/36,000-mile Complimentary Maintenance']"
+  },
+  {
+    "instruction": "You are a car color expert. List the available exterior colors for the specified model.",
+    "input": "What exterior colors are available for the 2024 Porsche 911?",
+    "output": "['Guards Red', 'GT Silver Metallic', 'Gentian Blue Metallic', 'Racing Yellow', 'Jet Black Metallic', 'Chalk']"
+  },
+  {
+    "instruction": "You are a transmission specialist. Describe the transmission options for the given vehicle.",
+    "input": "What transmission options are available for the 2024 Ford Mustang GT?",
+    "output": "['6-speed Manual', '10-speed SelectShift Automatic', 'Paddle Shifters with Automatic', 'Rev-Matching with Manual']"
+  },
+  {
+    "instruction": "You are a cargo space expert. Provide the cargo capacity details for the specified vehicle.",
+    "input": "What are the cargo capacities of the 2024 BMW X7?",
+    "output": "['12.8 cubic feet behind 3rd row', '48.6 cubic feet behind 2nd row', '90.4 cubic feet maximum capacity']"
+  },
+  {
+    "instruction": "You are an automotive lighting specialist. Detail the lighting features of the given model.",
+    "input": "What lighting features come with the 2024 Audi e-tron GT?",
+    "output": "['Matrix LED Headlights', 'Dynamic Turn Signals', 'LED Daytime Running Lights', 'Coming/Leaving Home Animation']"
+  },
+  {
+    "instruction": "You are a suspension expert. List the suspension features of the specified vehicle.",
+    "input": "What suspension features does the 2024 Range Rover have?",
+    "output": "['Electronic Air Suspension', 'Dynamic Response Pro', 'Adaptive Dynamics', 'Terrain Response 2']"
+  },
+  {
+    "instruction": "You are a wheel and tire specialist. Detail the wheel options for the given model.",
+    "input": "What wheel options are available for the 2024 Tesla Model S?",
+    "output": "['19-inch Tempest Wheels', '21-inch Arachnid Wheels', 'All-Season Tires', 'Summer Performance Tires']"
+  },
+  {
+    "instruction": "You are an electric vehicle expert. List the charging capabilities of the specified model.",
+    "input": "What are the charging capabilities of the 2024 Porsche Taycan?",
+    "output": "['270 kW DC Fast Charging', '11 kW AC Charging', '5-80% charge in 22.5 minutes', '300 miles range']"
+  },
+  {
+    "instruction": "You are a driver assistance specialist. Detail the advanced driver aids of the given vehicle.",
+    "input": "What driver assistance features come with the 2024 Genesis G80?",
+    "output": "['Highway Driving Assist II', 'Forward Collision Avoidance', 'Blind-Spot View Monitor', 'Remote Smart Parking Assist']"
+  },
+  {
+    "instruction": "You are a car audio expert. List the audio system specifications for the specified model.",
+    "input": "What are the audio system options for the 2024 Lexus LS?",
+    "output": "['Mark Levinson 23-speaker System', 'Quantum Logic Surround', '3D Surround Sound', 'Active Noise Control']"
+  },
+  {
+    "instruction": "You are a climate control specialist. Detail the climate features of the given vehicle.",
+    "input": "What climate control features does the 2024 Mercedes GLE have?",
+    "output": "['4-zone Automatic Climate Control', 'Air Balance Package', 'Cabin Air Filtration', 'Heated/Cooled Cup Holders']"
+  },
+  {
+    "instruction": "You are a seating configuration expert. List the seating options for the specified model.",
+    "input": "What seating configurations are available in the 2024 Kia Telluride?",
+    "output": "['7-passenger with Captain Chairs', '8-passenger with Bench Seat', 'Power-folding 3rd Row', 'Heated/Ventilated 1st/2nd Rows']"
+  },
+  {
+    "instruction": "You are a performance package specialist. Detail the performance upgrades for the given model.",
+    "input": "What performance packages are available for the 2024 BMW M5?",
+    "output": "['Competition Package', 'M Driver Package', 'Carbon Ceramic Brakes', 'M Sport Exhaust System']"
+  },
+  {
+    "instruction": "You are a roof system expert. List the roof options for the specified vehicle.",
+    "input": "What roof options are available for the 2024 Jeep Wrangler?",
+    "output": "['Freedom Top Hardtop', 'Sunrider Soft Top', 'Power Sky One-Touch Top', 'No Top Option']"
+  },
+  {
+    "instruction": "You are a car connectivity specialist. Detail the connectivity features of the given model.",
+    "input": "What connectivity features come with the 2024 Volkswagen ID.4?",
+    "output": "['Wireless App-Connect', 'Car-Net Remote Access', 'WiFi Hotspot Capability', 'Wireless Device Charging']"
+  },
+  {
+    "instruction": "You are a brake system expert. List the braking features for the specified model.",
+    "input": "What braking features does the 2024 Audi RS7 have?",
+    "output": "['Carbon Ceramic Brakes', 'Red Brake Calipers', 'Dynamic All-Wheel Steering', 'Electronic Stabilization Control']"
+  },
+  {
+    "instruction": "You are an interior material specialist. Detail the interior materials for the given vehicle.",
+    "input": "What interior materials are available in the 2024 Bentley Flying Spur?",
+    "output": "['Hand-Stitched Leather', 'Crown Cut Walnut Veneer', 'Piano Black Trim', 'Aluminum Sport Pedals']"
+  },
+  {
+    "instruction": "You are a vehicle customization expert. List the customization options for the specified model.",
+    "input": "What customization options are available for the 2024 Rolls-Royce Ghost?",
+    "output": "['Bespoke Paint Colors', 'Starlight Headliner', 'Commissioned Collection Features', 'Custom Interior Motifs']"
+  },
+  {
+    "instruction": "You are a navigation system specialist. Detail the navigation features of the given model.",
+    "input": "What navigation features come with the 2024 Acura MDX?",
+    "output": "['3D Navigation System', 'Real-Time Traffic', 'Natural Language Voice Control', 'AcuraLink Real-Time Services']"
+  },
+  {
+    "instruction": "You are a drive mode expert. List the driving modes for the specified vehicle.",
+    "input": "What drive modes are available in the 2024 Porsche Macan?",
+    "output": "['Normal Mode', 'Sport Mode', 'Sport Plus Mode', 'Off-Road Mode', 'Individual Mode']"
+  },
+  {
+    "instruction": "You are a fuel system specialist. Detail the fuel system specifications for the given model.",
+    "input": "What are the fuel system specifications for the 2024 Toyota Tundra?",
+    "output": "['32.2 Gallon Fuel Tank', 'Direct and Port Injection', 'Regular Unleaded Fuel Required', 'Capless Fuel Filler']"
+  },
+  {
+    "instruction": "You are an aerodynamics expert. List the aerodynamic features of the specified model.",
+    "input": "What aerodynamic features does the 2024 McLaren Artura have?",
+    "output": "['Active Rear Wing', 'Front Splitter', 'Rear Diffuser', 'Underbody Aerodynamics']"
+  },
+  {
+    "instruction": "You are a mirror specialist. Detail the mirror features for the given vehicle.",
+    "input": "What mirror features come with the 2024 Lincoln Navigator?",
+    "output": "['Auto-Dimming Side Mirrors', 'Power-Folding Capability', 'Memory Function', 'Approach Lighting']"
+  },
+  {
+    "instruction": "You are a steering system expert. List the steering features for the specified model.",
+    "input": "What steering features does the 2024 Cadillac Escalade have?",
+    "output": "['Variable-Assist Power Steering', 'Active Return Assist', 'Column Tilt/Telescope Memory', 'Heated Steering Wheel']"
+  },
+  {
+    "instruction": "You are a window system specialist. Detail the window features of the given model.",
+    "input": "What window features come with the 2024 Land Rover Defender?",
+    "output": "['Power Front/Rear Windows', 'Privacy Glass', 'Acoustic Laminated Glass', 'Rain-Sensing Wipers']"
+  },
+  {
+    "instruction": "You are an exhaust system expert. List the exhaust features for the specified vehicle.",
+    "input": "What exhaust features does the 2024 Chevrolet Corvette have?",
+    "output": "['Performance Exhaust System', 'Quad Exhaust Tips', 'Active Valve Control', 'Sound Enhancement']"
+  },
+  {
+    "instruction": "You are a storage specialist. Detail the storage features of the given model.",
+    "input": "What storage features come with the 2024 Honda Odyssey?",
+    "output": "['Magic Slide 2nd-Row Seats', 'In-Floor Storage', 'Center Console Storage', 'Door Pocket Storage']"
+  },
+  {
+    "instruction": "You are a key feature specialist. List the key features for the specified model.",
+    "input": "What key features come with the 2024 Genesis GV70?",
+    "output": "['Digital Key', 'Fingerprint Authentication', 'Remote Smart Parking', 'Hands-Free Smart Trunk']"
+  },
+  {
+    "instruction": "You are an air filtration expert. Detail the air filtration features of the given model.",
+    "input": "What air filtration features does the 2024 Volvo XC60 have?",
+    "output": "['Advanced Air Cleaner', 'CleanZone Technology', 'HEPA Filtration', 'Air Quality Sensor']"
+  },
+  {
+    "instruction": "You are a display screen specialist. List the display features for the specified vehicle.",
+    "input": "What display features come with the 2024 Rivian R1S?",
+    "output": "['15.6-inch Center Touchscreen', '12.3-inch Digital Instrument Cluster', 'Head-Up Display', 'Rear Entertainment Screens']"
+  },
+  {
+    "instruction": "You are a parking assistance expert. Detail the parking features of the given model.",
+    "input": "What parking features does the 2024 BMW iX have?",
+    "output": "['Parking Assistant Professional', '360-degree Camera', 'Remote Control Parking', 'Reversing Assistant']"
+  },
+  {
+    "instruction": "You are a seat adjustment specialist. List the seat adjustment features for the specified model.",
+    "input": "What seat adjustment features come with the 2024 Lexus LX?",
+    "output": "['28-Way Power Front Seats', '4-Way Lumbar Support', 'Memory Settings', 'Power Cushion Extender']"
+  },
+  {
+    "instruction": "You are a trailer expert. Detail the towing features of the given vehicle.",
+    "input": "What towing features does the 2024 Ford F-150 have?",
+    "output": "['Pro Trailer Backup Assist', 'Integrated Trailer Brake Controller', 'Smart Trailer Tow Connector', 'Dynamic Hitch Assist']"
+  },
+  {
+    "instruction": "You are a headlight specialist. List the headlight features for the specified model.",
+    "input": "What headlight features come with the 2024 Audi e-tron Sportback?",
+    "output": "['Digital Matrix LED Headlights', 'Dynamic Light Staging', 'Light Signature Animation', 'High-Beam Assistant']"
+  },
+  {
+    "instruction": "You are an instrument cluster expert. Detail the instrument cluster features of the given model.",
+    "input": "What instrument cluster features does the 2024 Mercedes EQS have?",
+    "output": "['56-inch Hyperscreen', 'Augmented Reality Head-Up Display', '3D Instrument Cluster', 'Zero Layer Interface']"
+  },
+  {
+    "instruction": "You are a door system specialist. Detail the door features of the given model.",
+    "input": "What door features come with the 2024 Rolls-Royce Phantom?",
+    "output": "['Power Closing Doors', 'Soft Close Function', 'Coach Doors', 'Umbrella Compartments']"
+  },
+  {
+    "instruction": "You are a voice control specialist. List the voice command features for the specified model.",
+    "input": "What voice command features does the 2024 Mercedes EQE have?",
+    "output": "['Natural Language Understanding', 'Multi-Seat Voice Control', 'MBUX Voice Assistant', 'Hey Mercedes Activation']"
+  }
+]
